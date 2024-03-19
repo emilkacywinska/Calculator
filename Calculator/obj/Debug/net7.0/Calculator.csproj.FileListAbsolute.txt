@@ -1,0 +1,14 @@
+C:\Users\emi12\OneDrive\Desktop\projects\C#\Calculator\Calculator\bin\Debug\net7.0\Calculator.exe
+C:\Users\emi12\OneDrive\Desktop\projects\C#\Calculator\Calculator\bin\Debug\net7.0\Calculator.deps.json
+C:\Users\emi12\OneDrive\Desktop\projects\C#\Calculator\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+C:\Users\emi12\OneDrive\Desktop\projects\C#\Calculator\Calculator\bin\Debug\net7.0\Calculator.dll
+C:\Users\emi12\OneDrive\Desktop\projects\C#\Calculator\Calculator\bin\Debug\net7.0\Calculator.pdb
+C:\Users\emi12\OneDrive\Desktop\projects\C#\Calculator\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emi12\OneDrive\Desktop\projects\C#\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\emi12\OneDrive\Desktop\projects\C#\Calculator\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+C:\Users\emi12\OneDrive\Desktop\projects\C#\Calculator\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\emi12\OneDrive\Desktop\projects\C#\Calculator\Calculator\obj\Debug\net7.0\Calculator.dll
+C:\Users\emi12\OneDrive\Desktop\projects\C#\Calculator\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+C:\Users\emi12\OneDrive\Desktop\projects\C#\Calculator\Calculator\obj\Debug\net7.0\Calculator.pdb
+C:\Users\emi12\OneDrive\Desktop\projects\C#\Calculator\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+C:\Users\emi12\OneDrive\Desktop\projects\C#\Calculator\Calculator\obj\Debug\net7.0\ref\Calculator.dll
